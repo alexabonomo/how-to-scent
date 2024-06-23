@@ -1,0 +1,16 @@
+@font-face {
+    font-family: pentameter;
+    src: url(fonts/Pentameter-Wide-MediumItalic-Trial.woff);
+}
+
+body{
+    background-color: rgb(234, 227, 231);
+    padding-top: 5%;
+    font-family: pentameter;
+    margin: auto;
+    width: 500px;
+}
+
+a{
+    color: rgb(168, 150, 154);
+}
